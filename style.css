@@ -34,6 +34,8 @@ i {
 }
 
 p {
+    display: flex;
+    font-size: 20px;
     margin: .2em auto
 }
 
