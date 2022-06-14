@@ -52,3 +52,14 @@ h1, h2 {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+@media (min-width: 768px) {
+    p {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 1024px) {
+    p {
+        font-size: 18px;
+    }
+}
